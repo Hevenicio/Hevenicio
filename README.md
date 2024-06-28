@@ -1,16 +1,23 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7116F5&height=120&section=header"/>
 
-<!--
-**Hevenicio/Hevenicio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=29D6A4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Hevenicio+Silva;Sou+Cientista+de+Dados;Seja+bem-vindx!+:%29)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+### Métricas do GitHub 📊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div align="center">  
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Hevenicio&show_icons=true&count_private=true&hide_border=false&title_color=29D6A4&icon_color=7116F5&text_color=29F4F4&bg_color=0d1117&locale=pt-br" alt="Hevenicio Silva"/> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hevenicio&layout=compact&hide_border=false&title_color=29D6A4&text_color=29F4F4&bg_color=0d1117&locale=pt-br"/>
+</div>
+
+##
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hevenicio&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=false&days=20&custom_title=Gráfico%20de%20Atividades)](https://github.com/Hevenicio/github-readme-activity-graph)
+
+### Linguagens e Ferramentas ⚙
+##
+
+![conatagem_de_visitantes](https://komarev.com/ghpvc/?username=your-github-Hevenicio&label=VISUALIZA%C3%87%C3%95ES+DO+PERFIL&color=brightgreen)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7116F5&height=120&section=footer"/>
