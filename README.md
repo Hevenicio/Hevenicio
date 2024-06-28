@@ -1,6 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7116F5&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03EBBF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=29D6A4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Hevenicio+Silva;Sou+Cientista+de+Dados;Seja+bem-vindx!+:%29)](https://git.io/typing-svg)
+
 
 ### Métricas do GitHub 📊
 
@@ -13,11 +14,11 @@
 
 ##
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hevenicio&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=false&days=20&custom_title=Gráfico%20de%20Atividades)](https://github.com/Hevenicio/github-readme-activity-graph)
+<!--  [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hevenicio&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=false&days=20&custom_title=Gráfico%20de%20Atividades)](https://github.com/Hevenicio/github-readme-activity-graph) -->
 
 ### Linguagens e Ferramentas ⚙
 ##
 
-![conatagem_de_visitantes](https://komarev.com/ghpvc/?username=your-github-Hevenicio&label=VISUALIZA%C3%87%C3%95ES+DO+PERFIL&color=brightgreen)
+![conatagem_de_visitantes](https://komarev.com/ghpvc/?username=your-github-Hevenicio&label=Visualizações+do+perfil&color=brightgreen)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7116F5&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03EBBF&height=120&section=footer"/>
