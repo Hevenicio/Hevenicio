@@ -2,14 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=29D6A4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Hevenicio+Silva;Sou+Cientista+de+Dados;Seja+bem-vindx!+:%29)](https://git.io/typing-svg)
 
-
 ### Métricas do GitHub 📊
-
 ##
 
 <div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Hevenicio&show_icons=true&count_private=true&hide_border=false&title_color=29D6A4&icon_color=7116F5&text_color=29F4F4&bg_color=0d1117&locale=pt-br" alt="Hevenicio Silva"/> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hevenicio&layout=compact&hide_border=false&title_color=29D6A4&text_color=29F4F4&bg_color=0d1117&locale=pt-br"/>
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Hevenicio&show_icons=true&count_private=true&hide_border=true&title_color=29D6A4&icon_color=7116F5&text_color=29F4F4&bg_color=0d1117&locale=pt-br&rank_icon=github" alt="Hevenicio Silva"/>
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hevenicio&layout=compact&hide_border=true&title_color=29D6A4&text_color=29F4F4&bg_color=0d1117&locale=pt-br"/>
+    <img src="https://streak-stats.demolab.com?user=Hevenicio&theme=vue-dark&locale=pt_BR&background=0d1117&border=0d1117&stroke=29D6A4&ring=29D6A4&sideNums=29D6A4&currStreakLabel=29F4F4&fire=55FF00&currStreakNum=EB2E08" alt="GitHub Streak" />
 </div>
 
 ##
