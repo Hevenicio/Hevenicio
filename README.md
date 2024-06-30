@@ -1,7 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03EBBF&height=120&section=header"/>
 
 <div align="center"> 
-    <img width=80% height=80% src="https://github.com/Hevenicio/Hevenicio/assets/65929471/febc2ca4-648c-4c35-8a5a-a4c4233e72ba"/>
+    <!--<img width=80% height=80% src="https://github.com/Hevenicio/Hevenicio/assets/65929471/febc2ca4-648c-4c35-8a5a-a4c4233e72ba"/>-->
+    <img width=80% height=80% src="https://github.com/Hevenicio/Hevenicio/assets/65929471/bf9275b8-6330-457b-a83a-f2777715ee31"/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=29D6A4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Hevenicio+Silva;Sou+Cientista+de+Dados;Seja+bem-vindx!+:%29)](https://git.io/typing-svg)
