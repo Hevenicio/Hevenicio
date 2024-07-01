@@ -12,7 +12,7 @@
 
 <div align="center">  
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Hevenicio&show_icons=true&count_private=true&hide_border=true&title_color=29D6A4&icon_color=1CF547&text_color=29F4F4&bg_color=2c3e50&locale=pt-br&rank_icon=github" alt="Hevenicio Silva"/>
-    <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hevenicio&layout=compact&hide_border=true&title_color=29D6A4&text_color=29F4F4&bg_color=2c3e50&locale=pt-br"/>
+    <img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hevenicio&layout=compact&hide_border=true&title_color=29D6A4&text_color=29F4F4&bg_color=2c3e50&locale=pt-br"/>
     <img src="https://streak-stats.demolab.com?user=Hevenicio&theme=vue-dark&locale=pt_BR&stroke=4D39FF&ring=4D39FF&fire=6AF400&sideNums=29D6A4&dates=1CF547&currStreakLabel=29F4F4&sideLabels=29F4F4&currStreakNum=29D6A4&border=EBEBEB00" />
 </div>
 
