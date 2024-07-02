@@ -23,7 +23,7 @@
 ### Linguagens e Ferramentas ⚙
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,r,js,html,css,git,github,gitlab,selenium,mysql,docker,sqlite,sublime,sklearn,django,flask,fastapi,tensorflow,pytorch,linux,ubuntu,windows,latex,mongodb,opencv,postgres,powershell,vscode,eclipse,figma" />
+    <img src="https://skillicons.dev/icons?i=py,r,js,html,css,gitlab,git,github,tensorflow,pytorch,sklearn,opencv,selenium,django,flask,fastapi,postgres,mysql,mongodb,sqlite,docker,linux,ubuntu,windows,powershell,vscode,sublime,eclipse,figma,latex" />
 </div> 
 <br />        
  
