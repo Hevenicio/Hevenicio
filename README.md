@@ -5,7 +5,7 @@
     <img src="https://github.com/Hevenicio/Hevenicio/assets/65929471/a5372ee2-76de-457b-8aef-b8ba911f99b8"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=29D6A4&size=55&center=true&vCenter=true&width=1000&lines=Olá,+sou+Hevenicio+Silva;Sou+Cientista+de+Dados;Seja+bem-vindx!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=29D6A4&size=55&center=true&vCenter=true&width=1000&lines=Olá,+sou+Hevenicio+Silva;Sou+Cientista+de+Dados;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 ### Métricas do GitHub 📊
 ##
