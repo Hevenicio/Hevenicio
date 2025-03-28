@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03EBBF&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=29D6A4&size=55&center=true&vCenter=true&width=1000&lines=Olá,+sou+Hevenicio+Silva;Sou+Cientista+de+Dados;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+
 <div align="center"> 
     <!--<img width=80% height=50% src="https://github.com/Hevenicio/Hevenicio/assets/65929471/fa61e282-9731-4bfd-b5d7-7ee529794a8d"/>-->
     <img src="https://github.com/Hevenicio/Hevenicio/assets/65929471/a5372ee2-76de-457b-8aef-b8ba911f99b8"/>
 </div>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=29D6A4&size=55&center=true&vCenter=true&width=1000&lines=Olá,+sou+Hevenicio+Silva;Sou+Cientista+de+Dados;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 ### Métricas do GitHub 📊
 ##
@@ -23,14 +23,10 @@
 ### Linguagens e Ferramentas ⚙
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,r,js,html,css,gitlab,git,github,tensorflow,pytorch,sklearn,opencv,selenium,django,flask,fastapi,postgres,mysql,mongodb,sqlite,docker,linux,ubuntu,windows,powershell,vscode,sublime,eclipse,figma,latex" />
+    <img src="https://skillicons.dev/icons?i=py,r,postgres,mongodb,postman,docker,tensorflow,sklearn,opencv,selenium,fastapi,gitlab,git,github,linux,ubuntu,vscode,sublime,eclipse,js,html,css,figma,latex&perline=6&theme=dark"/>
 </div> 
-<br />        
+<br/>        
  
  #
-
-<!--![conatagem_de_visitantes](https://komarev.com/ghpvc/?username=your-github-Hevenicio&label=Visualizações+do+perfil&color=brightgreen)-->
-
-[![](https://visitcount.itsvg.in/api?id=Hevenicio&icon=8&label=Visualizações+do+perfil&color=0)](https://visitcount.itsvg.in)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03EBBF&height=120&section=footer"/>
